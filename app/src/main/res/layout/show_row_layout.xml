@@ -8,7 +8,7 @@
             name="shoe"
             type="com.udacity.shoestore.models.Shoe" />
     </data>
-
+<!--    Constraintlayout works better with few numbers of elements, and helps in making responsive.-->
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="240dp"

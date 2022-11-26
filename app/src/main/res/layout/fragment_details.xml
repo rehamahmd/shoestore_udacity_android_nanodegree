@@ -8,7 +8,7 @@
             name="viewModel"
             type="com.udacity.shoestore.viewModels.ShoeViewModel" />
     </data>
-
+    <!--    Constraintlayout works better with few numbers of elements, and helps in making responsive.-->
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -35,7 +35,7 @@
             style="@style/labelStyle"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="100dp"
+            android:layout_marginTop="@dimen/details_margin_top"
             android:text="Name"
             app:layout_constraintTop_toTopOf="@id/detail_title"
             tools:layout_editor_absoluteX="16dp" />
@@ -46,7 +46,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="name"
-            android:minHeight="48dp"
+            android:minHeight="@dimen/field_min_height"
             android:text="@={viewModel.name}"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
@@ -68,7 +68,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Company"
-            android:minHeight="48dp"
+            android:minHeight="@dimen/field_min_height"
             android:text="@={viewModel.company}"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
@@ -91,7 +91,7 @@
             android:layout_height="wrap_content"
             android:hint="Size"
             android:inputType="number"
-            android:minHeight="48dp"
+            android:minHeight="@dimen/field_min_height"
             android:text="@={viewModel.size}"
             app:layout_constraintTop_toBottomOf="@id/size_text_id"
             tools:layout_editor_absoluteX="16dp" />
@@ -114,7 +114,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Description"
-            android:minHeight="48dp"
+            android:minHeight="@dimen/field_min_height"
             android:text="@={viewModel.description}"
             app:layout_constraintTop_toBottomOf="@id/desc_text_id"
             tools:layout_editor_absoluteX="16dp" />

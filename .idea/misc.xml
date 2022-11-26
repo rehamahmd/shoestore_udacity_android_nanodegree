@@ -3,6 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/REHAM/Documents/nd940-android-kotlin-course1-starter-master/nd940-android-kotlin-course1-starter-master/android_shoestore_first_project_nanodegree/shoestore/app/src/main/res/layout/activity_main.xml" value="0.19882246376811594" />
+        <entry key="..\:/Users/REHAM/Documents/nd940-android-kotlin-course1-starter-master/nd940-android-kotlin-course1-starter-master/android_shoestore_first_project_nanodegree/shoestore/app/src/main/res/layout/fragment_details.xml" value="0.19882246376811594" />
+        <entry key="..\:/Users/REHAM/Documents/nd940-android-kotlin-course1-starter-master/nd940-android-kotlin-course1-starter-master/android_shoestore_first_project_nanodegree/shoestore/app/src/main/res/layout/fragment_instructions.xml" value="0.19882246376811594" />
+        <entry key="..\:/Users/REHAM/Documents/nd940-android-kotlin-course1-starter-master/nd940-android-kotlin-course1-starter-master/android_shoestore_first_project_nanodegree/shoestore/app/src/main/res/layout/fragment_listing.xml" value="0.19882246376811594" />
+        <entry key="..\:/Users/REHAM/Documents/nd940-android-kotlin-course1-starter-master/nd940-android-kotlin-course1-starter-master/android_shoestore_first_project_nanodegree/shoestore/app/src/main/res/layout/fragment_login.xml" value="0.19882246376811594" />
+        <entry key="..\:/Users/REHAM/Documents/nd940-android-kotlin-course1-starter-master/nd940-android-kotlin-course1-starter-master/android_shoestore_first_project_nanodegree/shoestore/app/src/main/res/layout/fragment_welcome.xml" value="0.19882246376811594" />
+        <entry key="..\:/Users/REHAM/Documents/nd940-android-kotlin-course1-starter-master/nd940-android-kotlin-course1-starter-master/android_shoestore_first_project_nanodegree/shoestore/app/src/main/res/layout/show_row_layout.xml" value="0.19882246376811594" />
         <entry key="..\:/Users/REHAM/Documents/nd940-android-kotlin-course1-starter-master/nd940-android-kotlin-course1-starter-master/starter/app/src/main/res/layout/activity_main.xml" value="0.16485507246376813" />
         <entry key="..\:/Users/REHAM/Documents/nd940-android-kotlin-course1-starter-master/nd940-android-kotlin-course1-starter-master/starter/app/src/main/res/layout/fragment_details.xml" value="0.1" />
         <entry key="..\:/Users/REHAM/Documents/nd940-android-kotlin-course1-starter-master/nd940-android-kotlin-course1-starter-master/starter/app/src/main/res/layout/fragment_instructions.xml" value="0.1" />

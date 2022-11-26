@@ -18,7 +18,7 @@
         android:id="@+id/scrollview"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
-
+        <!-- use LinearLayout because we will add more than one view inside scrollview-->
         <LinearLayout
             android:id="@+id/shoe_linear_view"
             android:layout_width="match_parent"

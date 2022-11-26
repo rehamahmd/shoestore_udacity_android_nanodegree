@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
    >
-
+    <!--    Constraintlayout works better with few numbers of elements, and helps in making responsive.-->
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/frameLayout1"
         android:layout_width="match_parent"
